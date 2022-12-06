@@ -1,7 +1,12 @@
 # redux old with moonTech
 
 steps:
-step-1: redux folder (1.store.js, 2.reducer.js, 3.actionTypes, 4.actionCreator)
+step-1: redux folder 
+*1.store.js
+*2.reducer.js
+*3.actionTypes
+*4.actionCreator
+
 step-2: useSelector for accessing state
 step-3: useDispatch for for making action
 step-4: redux-devtool (composeWithDevTools) 
